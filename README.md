@@ -32,6 +32,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubham-code-web/LeetCode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-code-web/LeetCode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-code-web/LeetCode-/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-code-web/LeetCode-/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
