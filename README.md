@@ -78,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham-code-web/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -91,8 +92,21 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Segment Tree
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
