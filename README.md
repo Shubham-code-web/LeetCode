@@ -93,6 +93,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1845-seat-reservation-manager](https://github.com/Shubham-code-web/LeetCode/tree/master/1845-seat-reservation-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1845-seat-reservation-manager](https://github.com/Shubham-code-web/LeetCode/tree/master/1845-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
