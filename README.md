@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-code-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Shubham-code-web/LeetCode/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -125,6 +126,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Shubham-code-web/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Shubham-code-web/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
