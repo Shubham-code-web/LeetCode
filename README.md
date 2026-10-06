@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-code-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Shubham-code-web/LeetCode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Shubham-code-web/LeetCode/tree/master/0283-move-zeroes) |
@@ -173,6 +174,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [1096-brace-expansion-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -203,6 +205,15 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Shubham-code-web/LeetCode/tree/master/0221-maximal-square) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-code-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
