@@ -69,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/Shubham-code-web/LeetCode/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-code-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
@@ -231,17 +233,20 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Shubham-code-web/LeetCode/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-code-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 ## Enumeration
 |  |
 | ------- |
