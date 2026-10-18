@@ -13,27 +13,32 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubham-code-web/LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubham-code-web/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubham-code-web/LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubham-code-web/LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-code-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shubham-code-web/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubham-code-web/LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubham-code-web/LeetCode-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-code-web/LeetCode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-code-web/LeetCode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -49,12 +54,14 @@
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham-code-web/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-code-web/LeetCode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-code-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Shubham-code-web/LeetCode-/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-code-web/LeetCode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
@@ -73,6 +80,7 @@
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-code-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubham-code-web/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-code-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -258,6 +266,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -271,4 +280,12 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubham-code-web/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
