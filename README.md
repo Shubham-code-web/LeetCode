@@ -81,6 +81,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubham-code-web/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham-code-web/LeetCode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -127,6 +129,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shubham-code-web/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubham-code-web/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -227,6 +230,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -299,4 +303,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
