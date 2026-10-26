@@ -83,6 +83,7 @@
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shubham-code-web/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubham-code-web/LeetCode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -235,6 +236,7 @@
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shubham-code-web/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Shubham-code-web/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shubham-code-web/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -273,6 +275,7 @@
 | [0221-maximal-square](https://github.com/Shubham-code-web/LeetCode/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shubham-code-web/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubham-code-web/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shubham-code-web/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
