@@ -40,6 +40,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubham-code-web/LeetCode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubham-code-web/LeetCode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -84,6 +85,7 @@
 | [0283-move-zeroes](https://github.com/Shubham-code-web/LeetCode/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/Shubham-code-web/LeetCode-/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
