@@ -121,6 +121,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shubham-code-web/LeetCode/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/Shubham-code-web/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-code-web/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
@@ -250,6 +251,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shubham-code-web/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Shubham-code-web/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Shubham-code-web/LeetCode/tree/master/0547-number-of-provinces) |
@@ -308,6 +310,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shubham-code-web/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shubham-code-web/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
@@ -359,6 +362,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shubham-code-web/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Shubham-code-web/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shubham-code-web/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Shubham-code-web/LeetCode/tree/master/0841-keys-and-rooms) |
