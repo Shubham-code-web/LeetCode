@@ -260,6 +260,7 @@
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Shubham-code-web/LeetCode/tree/master/0752-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/Shubham-code-web/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shubham-code-web/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Shubham-code-web/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Shubham-code-web/LeetCode/tree/master/0994-rotting-oranges) |
@@ -317,6 +318,7 @@
 | [0547-number-of-provinces](https://github.com/Shubham-code-web/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shubham-code-web/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Shubham-code-web/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shubham-code-web/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Shubham-code-web/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -328,6 +330,7 @@
 | [0200-number-of-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shubham-code-web/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Shubham-code-web/LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Shubham-code-web/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Shubham-code-web/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubham-code-web/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shubham-code-web/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -366,6 +369,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Shubham-code-web/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Shubham-code-web/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Shubham-code-web/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shubham-code-web/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Shubham-code-web/LeetCode/tree/master/0841-keys-and-rooms) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubham-code-web/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -377,4 +381,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubham-code-web/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shubham-code-web/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shubham-code-web/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
